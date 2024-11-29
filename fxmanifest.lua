@@ -8,7 +8,7 @@ lua54 'yes'
 
 client_scripts {
     'client/*.lua',
-    'client/class/*.lua',
+    'client/modules/*.lua',
 }
 
 server_scripts {
